@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hridoy Dhar</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Hridoy+Dhar;Flutter+Developer;QA+Engineer;AI+Enthusiast;Building+Real+World+Apps" />
+</p>
 <h3 align="center">🚀 Software Engineer | Flutter Developer | QA & AI Enthusiast</h3>
 
 <p align="center">
