@@ -14,7 +14,7 @@
 
 ## 🧠 About Me
 
-<img align="right" height="180" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" height="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 🚀 I build scalable mobile apps and test them like production systems
 
