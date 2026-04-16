@@ -14,9 +14,7 @@
 
 ## 🧠 About Me
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Software+Engineer;Flutter+Developer;QA+Engineer;AI+Enthusiast;10K%2B+Users+App+Builder"/>
-</p>
+<img align="right" height="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 🚀 I build scalable mobile apps and test them like production systems
 
